@@ -1,0 +1,22 @@
+
+
+All scripts and setup belongs to the Boards.rbxm so everything should be fine, but
+here are the few things you have to do and modify
+
+
+! IMPORTANT !
+     * Inside the Products.lua (module script)
+       are examples of of Developer Products.
+       These are the Products that the donators should by as a form of Donation
+
+     * YOU MUST CREATE YOUR OWN Developer Product in your game's settings page,
+       copy it's ID and replace the " ProductId = "123456" " on the script, change the
+       product price for how much is it
+       and start earning robux.
+
+     * You can add as many Products as you want.
+
+
+Note:
+     - Robux earnings are held for 3 days by roblox before giving it to you.
+     - this system won't work on roblox studio.
